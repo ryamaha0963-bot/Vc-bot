@@ -691,3 +691,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+# main.py ke top me import karo
+from remove_token_command import setup_token_remover
+
+# Apne bot ko initialize karne ke baad ye add karo
+setup_token_remover(app, ADMIN_ID=YOUR_ADMIN_ID)
+
+# Example:
+# app = Client(...)
+# setup_token_remover(app, 123456789)
+# app.run()
