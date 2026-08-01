@@ -1,8 +1,0 @@
-python-telegram-bot==20.7
-PyGithub==2.1.1
-requests==2.31.0
-python-dotenv==1.0.0
-telethon==1.37.0
-pytgcalls==2.1.0
-tgcalls==2.0.0
-tgcrypto==1.2.5
