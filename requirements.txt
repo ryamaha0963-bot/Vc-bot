@@ -2,3 +2,4 @@ py-tgcalls
 pyrogram
 tgcrypto
 python-dotenv
+python-telegram-bot
