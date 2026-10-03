@@ -1,0 +1,4 @@
+py-tgcalls
+pyrogram
+tgcrypto
+python-dotenv
